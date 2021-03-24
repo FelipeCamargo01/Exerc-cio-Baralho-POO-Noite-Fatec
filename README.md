@@ -1,2 +1,1 @@
-"# Exerc-cio-Baralho-POO-Noite-Fatec" 
-"# Exerc-cio-Baralho-POO-Noite-Fatec" 
+Exercício Baralho POO Noite Fatec Mogi Mirim
