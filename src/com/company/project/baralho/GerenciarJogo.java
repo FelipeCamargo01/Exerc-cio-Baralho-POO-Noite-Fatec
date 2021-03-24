@@ -1,3 +1,7 @@
+/**
+ * @author Luiz Felipe Camargo de Oliveira
+ */
+
 package com.company.project.baralho;
 
 import com.company.project.baralho.Model.Baralho;
